@@ -2,7 +2,7 @@
 // The app.post(in the apiRoutes.js) used to handle the compatibility logic.
 
 
-var friends = require('../data/friends.js');
+var friends = require('../Data/friends.js');
 
 // Routing the apiRoutes with the app.get and app.post functions
 module.exports = function (app) {
